@@ -16,8 +16,8 @@ Currently learning **Java, Android Studio, HTML, CSS, and JavaScript** — alway
 ---
 
 ## 📊 GitHub Stats
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnEmmanuelGomez&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEmmanuelGomez&layout=compact&theme=tokyonight)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gomezjohnemman-svg&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezjohnemman-svg&layout=compact&theme=tokyonight)
 
 ---
 
