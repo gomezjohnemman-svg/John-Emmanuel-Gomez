@@ -22,9 +22,9 @@ Currently learning **Java, Android Studio, HTML, CSS, and JavaScript** — alway
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: [linkedin.com/in/johnemmanuelgomez](https://linkedin.com) *(add your real link when ready)*  
-- 📧 Email: johngomez@example.com *(replace with your real email)*  
+- 💼 LinkedIn: [linkedin.com/in/johnemmanuelgomez](www.linkedin.com/in/john-emmanuel-gomez-5bb103397) 
+- 📧 Email: GomezJjohnemman@gmail.com
 
----
 
-⭐ “Code is like humor — when you have to explain it, it’s bad.”
+
+⭐ “Code is like humor when you have to explain it, it’s bad.”
